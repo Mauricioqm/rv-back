@@ -4,7 +4,8 @@
   "description": "Bacend chat MERN",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index.js"
+    "start": "nodemon index.js",
+    "dev": "nodemon index.js"
   },
   "author": "Mauricio Q",
   "license": "ISC",
