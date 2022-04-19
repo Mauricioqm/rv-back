@@ -1,7 +1,7 @@
 {
   "name": "rv",
   "version": "1.0.0",
-  "description": "Bacend chat MERN",
+  "description": "Backend chat MERN",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
@@ -22,5 +22,8 @@
     "nodemon": "^2.0.15",
     "socket.io": "^4.4.1",
     "validator": "^13.7.0"
+  },
+  "engines": {
+    "node": "14.18.0"
   }
 }
